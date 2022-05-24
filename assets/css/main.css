@@ -247,6 +247,10 @@ input, select, textarea {
 		width: 1360px;
 	}
 
+	.container img {
+		height: 350px;
+	}
+
 		.container.medium {
 			width: 1020px;
 		}
